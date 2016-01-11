@@ -1,0 +1,1 @@
+setTimeout(function(){$('.button-primary')[0].click()},Math.random()*7000+3000);
