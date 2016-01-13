@@ -1,0 +1,1 @@
+$('#compose-message').val($('.pill-name').text())
